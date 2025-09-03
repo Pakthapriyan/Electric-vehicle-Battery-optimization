@@ -1,5 +1,5 @@
 Integration of Machine Learning and Explainable AI (XAI) approaches for Optimizing Battery Health on Electric Vehicles
-This project explores the use of machine learning (ML) to predict the health of electric vehicle (EV) batteries. Its primary goal is to address the "black box" nature of complex ML models by integrating Explainable AI (XAI) techniques. The project aims to not only classify battery health with high accuracy but also to provide transparent, human-understandable explanations for the model's predictions.
+This project explores using machine learning (ML) to predict electric vehicle (EV) battery health. Its primary goal is to address the "black box" nature of complex ML models by integrating Explainable AI (XAI) techniques. The project aims to not only classify battery health with high accuracy but also to provide transparent, human-understandable explanations for the model's predictions.
 
 Key Features 🧠
 Battery Health Classification: Develops and validates ensemble ML models for accurately classifying the state of health (SOH) of EV batteries.
